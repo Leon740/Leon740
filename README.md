@@ -1,10 +1,5 @@
 # Leonid Dobrinov
 Senior Front-end Engineer **(7+ years, TypeScript, React, Next, Astro, Tailwind, UI/UX Design)**
-* [LinkedIn](https://linkedin.com/in/leon740)
-* dobrinovleonid@gmail.com
-* 215-987-7259
-* New York City (Open to Relocation)
-* Green Card Holder
 
 # Summary
 
@@ -19,7 +14,6 @@ Senior Front-end Engineer **(7+ years, TypeScript, React, Next, Astro, Tailwind,
 ## Senior Front-end Lead Engineer
 **Sandals Resorts**  
 08/2022 - Present | 2 years 4 months  
-New York City, NY  
 
 [sandals.com](sandals.com)  
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
@@ -51,7 +45,6 @@ Technologies: TypeScript, Next, Tailwind, Scss, Vitest, Jest, Rtl, Vite, GraphQL
 ## Senior Front-end Engineer
 **CitiBank**  
 03/2020 – 08/2022 | 2 years 6 months  
-New York City, NY  
 
 Investing banking. Internal app used by the front office to manage trades.  
 
@@ -68,7 +61,6 @@ Technologies: TypeScript, React, Redux, Scss, Vitest, Jest, Rtl, Vite, RestApi
 ## Front-end Engineer
 **Nike**  
 02/2018 – 03/2020 | 2 years 2 months  
-New York City, NY  
 
 # Education
 
@@ -77,7 +69,7 @@ National Admiral Makarov University, Ukraine, Mykolaiv
 2014 - 2018
 
 ## Salesforce Certified JavaScript Developer
-Salesforce, New York, NY  
+Salesforce
 2024
 
 ## Professional Front-end certification | Grade Excellent
