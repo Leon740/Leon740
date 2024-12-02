@@ -25,11 +25,7 @@ Result: consistent design across the entire project
 * Led the architecture solution to use TailwindCss as the primary design tool and Vite bundler instead of Webpack
 Result: Performance raised to 98%, Page load time reduced to 0.76 seconds
 * Setup code splitting rules and conventions
-Result: Bundle size reduced to 5 kb per page
-* Integrated Lighthouse and ESLint accessibility checkers
-Result: Accessibility raised to 100%
-* Optimized data storage by using HashTables to store resorts data
-Result: API response time reduced to 0.68 seconds
+Result: Bundle size reduced to 17 kb per page
 * Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation
 * Configure Vite, PostCss, TailwindCss, Scss, Jest, Rtl and other tools
 Result: consistent, easy to maintain codebase, with clean git history
@@ -37,40 +33,55 @@ Result: consistent, easy to maintain codebase, with clean git history
 * Attend design brainstorming, prototyping sessions
 Result: super easy to use UI led to higher booking conversion
 * Mentor junior developers and provide team members with support (ex. mocking 3rd party apis for testing)
-* Separate the team to smaller groups for large features
-Result: Large feature release time reduced to 2 days
+* Divide the team to smaller groups for large features
+Result: Large feature release time reduced to 18 hours
 
-Technologies: TypeScript, Next, Tailwind, Scss, Vitest, Jest, Rtl, Vite, GraphQL
+*Technologies: TypeScript, Next, Redux Toolkit, Tailwind, Scss, Vitest, Jest, Rtl, Vite, GraphQL*
 
 ## Senior Front-end Engineer
 **CitiBank**  
 03/2020 – 08/2022 | 2 years 6 months  
 
-Investing banking. Internal app used by the front office to manage trades.  
+Investing banking. Internal app used by the front office to manage trades.
 
 * Researched an existing design system, defined a set of components
 Result: development time significantly reduced
+* Integrated Lighthouse and ESLint accessibility checkers
+Result: Accessibility raised to 99.2%
+* Optimized data storage by using HashTables
+Result: API response time reduced to 0.68 seconds
 * Led the architecture solution to use Scss for styling
 Result: consistent styles which do not override each other and other components
 * Selected React Query for working with data, based on multiple requirements
 * Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation
 Result: consistent, easy to maintain codebase, with clean git history
 
-Technologies: TypeScript, React, Redux, Scss, Vitest, Jest, Rtl, Vite, RestApi
+*Technologies: TypeScript, React, Redux, Scss, Vitest, Jest, Rtl, Vite, RestApi*
 
 ## Front-end Engineer
 **Nike**  
 02/2018 – 03/2020 | 2 years 2 months  
 
-# Education
+Internal app used to manage orders.
 
-## Master’s Degree in Computer Science | GPA: 3.9
-National Admiral Makarov University, Ukraine, Mykolaiv  
-2014 - 2018
+* Enhanced an existing design system
+Result: multiple bugs resolved through many internal applications
+* Setup code splitting rules and conventions
+Result: Bundle size reduced to 28 kb per screen
+* Developed lazyload library from scratch
+Result: Screen load time reduced to 0.53 seconds
+
+*Technologies: JavaScript, React, Redux, Scss, Jest, Rtl, RestApi*
+
+# Education
 
 ## Salesforce Certified JavaScript Developer
 Salesforce
 2024
+
+## Master’s Degree in Computer Science | GPA: 3.9
+National Admiral Makarov University, Ukraine, Mykolaiv  
+2014 - 2018
 
 ## Professional Front-end certification | Grade Excellent
 “Step” IT-Academy, Ukraine, Mykolaiv  
