@@ -4,14 +4,13 @@ Senior Front-end Engineer **(7+ years, TypeScript, React, Next, Astro, Tailwind,
 # Summary
 
 * Senior Front-end Engineer with 7+ years of experience building performant user interfaces (web apps)
-* Successfully led the team of 5 people for 2 years. Deep Front-end expertise
 * Solid UI design experience with Figma, designed multiple web apps
 * Back-end experience with Node, Express, MongoDB
 * Excited to join a team where I can contribute my expertise and continue to grow alongside innovative projects
 
 # Experience
 
-## Senior Front-end Lead Engineer
+## Senior Front-end Engineer
 **Sandals Resorts**  
 08/2022 - Present | 2 years 4 months  
 
@@ -21,28 +20,28 @@ The website is built in 300 pages showcasing promotions, events and booking opti
 In the peak seasons (January, August) the website attracts around 2500 users daily.  
 
 * Built a design system from scratch (set of common components and styles)  
-**Result**: consistent design across the entire project
+  **Result**: Consistent design across the entire project  
 
 * Led the architecture solution to use TailwindCss as the primary design tool and Vite bundler instead of Webpack  
-**Result**: Performance raised to 98%, Page load time reduced to 0.76 seconds  
+  **Result**: Performance raised to 98 %, Page load time reduced to 0.76 seconds  
 
 * Setup code splitting rules and conventions  
-**Result**: Bundle size reduced to 17 kb per page
+  **Result**: Bundle size reduced to 17 kb per page  
 
 * Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation  
 
-* Configure Vite, PostCss, TailwindCss, Scss, Jest, Rtl and other tools  
-**Result**: consistent, easy to maintain codebase, with clean git history
+* Configured Vite, PostCss, TailwindCss, Scss, Jest, Rtl and other tools  
+  **Result**: Consistent, easy to maintain codebase, with clean git history  
 
-* Analyze tasks backlog, define priorities and assign tasks  
+* Analyzed tasks backlog, defined priorities and assigned tasks  
 
-* Attend design brainstorming, prototyping sessions  
-**Result**: super easy to use UI led to higher booking conversion
+* Attended design brainstorming, prototyping sessions  
+  **Result**: Super easy to use UI led to higher booking conversion  
 
-* Mentor junior developers and provide team members with support (ex. mocking 3rd party apis for testing)  
+* Mentored junior developers and provided team members with support (e.g., mocking 3rd party APIs for testing)  
 
-* Divide the team to smaller groups for large features  
-**Result**: Large feature release time reduced to 18 hours
+* Divided the team into smaller groups for large features  
+  **Result**: Large feature release time reduced to 18 hours  
 
 *Technologies: TypeScript, Next, Redux Toolkit, Tailwind, Scss, Vitest, Jest, Rtl, Vite, GraphQL*
 
@@ -53,21 +52,21 @@ In the peak seasons (January, August) the website attracts around 2500 users dai
 Investing banking. Internal app used by the front office to manage trades.
 
 * Researched an existing design system, defined a set of components  
-**Result**: development time significantly reduced
+  **Result**: Development time significantly reduced  
 
 * Integrated Lighthouse and ESLint accessibility checkers  
-**Result**: Accessibility raised to 99.2%
+  **Result**: Accessibility raised to 99.2%  
 
 * Optimized data storage by using HashTables  
-**Result**: API response time reduced to 0.68 seconds
+  **Result**: API response time reduced to 0.68 seconds  
 
 * Led the architecture solution to use Scss for styling  
-**Result**: consistent styles which do not override each other and other components
+  **Result**: Consistent styles with no overrides  
 
 * Selected React Query for working with data, based on multiple requirements  
 
 * Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation  
-**Result**: consistent, easy to maintain codebase, with clean git history
+  **Result**: Consistent, easy to maintain codebase, with clean git history  
 
 *Technologies: TypeScript, React, Redux, Scss, Vitest, Jest, Rtl, Vite, RestApi*
 
@@ -78,13 +77,13 @@ Investing banking. Internal app used by the front office to manage trades.
 Internal app used to manage orders.
 
 * Enhanced an existing design system  
-**Result**: multiple bugs resolved through many internal applications
+  **Result**: Multiple bugs resolved through many internal applications  
 
 * Setup code splitting rules and conventions  
-**Result**: Bundle size reduced to 28 kb per screen
+  **Result**: Bundle size reduced to 28 kb per screen  
 
 * Developed lazyload library from scratch  
-**Result**: Screen load time reduced to 0.53 seconds
+  **Result**: Screen load time reduced to 0.53 seconds  
 
 *Technologies: JavaScript, React, Redux, Scss, Jest, Rtl, RestApi*
 
