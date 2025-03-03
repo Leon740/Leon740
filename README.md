@@ -1,19 +1,41 @@
 # Leonid Dobrinov
 
 📌 **Leonid Dobrinov** – **Senior Front-end Engineer** (7+ Years)  
-💻 **Tech Stack:** TypeScript, React, Next.js, Svelte, Astro, Tailwind  
+💻 **Tech Stack:** TypeScript, React, Next, Svelte, Astro, Tailwind, Figma  
 📍 **Location:** New York City (Open to Relocation) | 🟢 Green Card Holder  
 🔗 **[LinkedIn](linkedin.com/in/leon740)** | 🔗 **[GitHub](github.com/Leon740)** | ✉️ **dobrinovleonid@gmail.com** | 📞 **215-987-7259**
 
 # Summary
 
 🔹 **Passionate Front-end Engineer with 7+ years of experience** developing high-performance, scalable, and user-centric web applications.  
-🔹 **Expert in React, Next.js, Svelte, Astro, and Tailwind**, optimizing **performance, accessibility, and modern UI architecture**.  
+🔹 **Expert in React, Next, Svelte, Astro, and Tailwind**, optimizing **performance, accessibility, and modern UI architecture**.  
 🔹 Built and optimized **design systems**.  
 🔹 **Full-stack exposure** (Node.js, Java, PHP) enhances my ability to **architect and build end-to-end solutions** with a **strong UX focus**.  
 🔹 **Problem-solver & innovator**, always exploring **cutting-edge tools** to push web performance forward.
 
 # Experience
+
+## Senior Front-end Engineer at RE Partners
+
+Jun 2023 – Present | 1 year 10 months | New York
+
+## Front-end Engineer at Sandals Resorts
+
+Mar 2020 – Jun 2023 | 3 years 4 months | New York
+
+Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
+In the peak times (August, February) the sandals.com website attracts around 1500 Visitors daily.
+
+My main focus was the design system used across multiple Sandals products and developing customer facing sandals.com website.
+
+- Built a **design system from scratch**, used across Sandals’ digital products, ensuring UI consistency.
+- Led the **TailwindCSS adoption**, reducing **CSS bundle size from 87 KB → 4 KB** and **improving render performance**.
+- Optimized **build process with Vite code splitting**, cutting **bundle size by 94% (276 KB → 17 KB)**, reducing **page load time to 0.79s**.
+- Implemented **microservices-based architecture**, making apps independent, maintainable, and scalable.
+- Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates.
+- Optimized a**ccessibility for screen readers and keyboards** using **automated code checkers, Lighthouse audits**, improving **accessibility score to 96%**
+
+**_Technologies_**: TypeScript, React, Redux, Next, Tailwind, Scss, Vitest, Jest, Rtl, Vite, RestApi, GraphQL
 
 ## Front-end Engineer at Citi Bank
 
@@ -26,35 +48,18 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 - Automated **code quality checks** with **Sonar, ESLint, Prettier**, and Husky, ensuring clean, maintainable code.
 - Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**.
 
-## Front-end Engineer at Sandals Resorts
-
-Mar 2020 – Jun 2023 | 3 years 4 months | New York
-
-Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
-In the peak times (August, February) the sandals.com website attracts around 1500 Visitors daily.
-
-My main focus was the design system used across multiple Sandals products and developing customer facing sandals.com website.
-
-- Built a **design system from scratch**, used across Sandals’ digital products, ensuring UI consistency.
-- Led **TailwindCSS adoption**, reducing **CSS bundle size from 87 KB → 4 KB** and **improving render performance**.
-- Optimized **build process with Vite & code splitting**, cutting **bundle size by 94% (276 KB → 17 KB)**, reducing **page load time to 0.79 seconds**.
-- Implemented **microservices-based architecture**, making apps independent, maintainable, and scalable.
-- Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates.
-
-## Senior Front-end Engineer at RE Partners
-
-Jun 2023 – Present | 1 year 10 months | New York
+**_Technologies_**: TypeScript, React, ReactQuery, Axios, Zustand, Scss, ModuleCss, Jest, Rtl, Webpack, RestApi
 
 # Education
 
-**Master's Degree in Computer Science | Grade 3.8/4**  
-National University of Shipbuilding, Ukraine, 2014 - 2018
+**Salesforce Certified JavaScript Developer**  
+New York 2024
 
 **Certified Front-end Engineer**  
 Step It Academy, Ukraine 2017
 
-**Salesforce Certified JavaScript Developer**  
-United States 2024
+**Master's Degree in Computer Science | Grade 3.8/4**  
+National University of Shipbuilding, Ukraine, 2014 - 2018
 
 # Personal Projects
 
@@ -74,7 +79,7 @@ Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Strapi He
 
 # Skills
 
-✅ **Front-End:** React, Next.js, Svelte, Preact, Astro, TypeScript, JavaScript  
+✅ **Front-End:** React, Next, Svelte, Preact, Astro, TypeScript, JavaScript  
 ✅ **State Management:** Redux, MobX, Zustand  
 ✅ **Styling & UI:** TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
 ✅ **UI/UX Design:** Figma, Sketch, Adobe Photoshop, Illustrator  
