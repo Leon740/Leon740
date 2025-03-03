@@ -28,7 +28,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 ## Front-end Engineer at Sandals Resorts
 
-Mar 2020 – Jun 2023 | 3 years 3 months | New York
+Mar 2020 – Jun 2023 | 3 years 4 months | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
 In the peak times (August, February) the sandals.com website attracts around 1500 Visitors daily.
@@ -41,9 +41,9 @@ My main focus was the design system used across multiple Sandals products and de
 - Implemented **microservices-based architecture**, making apps independent, maintainable, and scalable.
 - Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates.
 
-## Senior Front-end Consultant at RE Partners
+## Senior Front-end Engineer at RE Partners
 
-Jun 2023 – Present | 6 months | New York
+Jun 2023 – Present | 1 year 10 months | New York
 
 # Education
 
@@ -81,3 +81,5 @@ Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Strapi He
 ✅ **Build Tools:** Vite, Webpack  
 ✅ **Testing:** Vitest, Jest, React Testing Library, Storybook  
 ✅ **Back-End:** Node.js, Express, MongoDB, MySQL, Java, PHP
+
+Tesla, Electric Vehicles, Renewable Energy, Battery Technology, Autonomous Driving, AI, Neural Networks, Machine Learning, Cybertruck, Tesla Bot, Tesla AI Day, Self-Driving, FSD, Energy Storage, Powerwall, Tesla Autopilot, Tesla Infotainment System, Three.js, WebGL, Canvas API, GPU Rendering, WebAssembly, High-Performance UI, Real-Time Data Visualization, WebSockets, GraphQL, React Fiber, Concurrent Mode, Recoil, Apollo Client, D3.js, Animation Performance Optimization, Responsive Design, Web Accessibility, UX/UI Engineering, Dashboard Development, HMI (Human-Machine Interface), Interactive Data Visualizations, IoT Dashboards, Augmented Reality (AR), WebXR, OpenGL ES, Computer Vision, 3D UI Design, Low Latency UI, Code-Splitting, Bundle Optimization, Webpack Profiling, V8 Engine Performance, Memory Profiling, Lighthouse Audits, Accessibility Audits, SSR, ISR, PWA, Edge Computing, Cloud Computing, AWS, Google Cloud, Firebase, WebRTC, Electron.js, GraphQL Federation, Node.js Performance Optimization, Load Balancing, Redis, WebSockets for Real-Time Data, Innovation, Disruptive Technology, Fast-Paced Environment, Agile, Cross-Functional Collaboration, High-Impact Teams, Mission-Driven Engineering, Tesla Engineering Principles, First-Principles Thinking, Problem-Solving Mindset, Elon Musk Philosophy, High-Performance Culture, Iterative Development, Speed of Execution, Pushing Boundaries in Tech, Next-Gen Interfaces, Human-Centered Design, Scalable Systems, Robotics UI, In-Vehicle UI, Touchscreen Interfaces, Infotainment Systems.
