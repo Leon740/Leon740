@@ -1,145 +1,83 @@
 # Leonid Dobrinov
-Senior Front-end Engineer **(7+ years, TypeScript, React, Next, Astro, Tailwind, UI/UX Design)**
+
+📌 **Leonid Dobrinov** – **Senior Front-end Engineer** (7+ Years)  
+💻 **Tech Stack:** TypeScript, React, Next.js, Svelte, Astro, Tailwind  
+📍 **Location:** New York City (Open to Relocation) | 🟢 Green Card Holder  
+🔗 **[LinkedIn](linkedin.com/in/leon740)** | 🔗 **[GitHub](github.com/Leon740)** | ✉️ **dobrinovleonid@gmail.com** | 📞 **215-987-7259**
 
 # Summary
 
-* Senior Front-end Engineer with 7+ years of experience building performant user interfaces (web apps)
-* Solid UI design experience with Figma, designed multiple web apps
-* Back-end experience with Node, Express, MongoDB
-* Excited to join a team where I can contribute my expertise and continue to grow alongside innovative projects
+🔹 **Passionate Front-end Engineer with 7+ years of experience** developing high-performance, scalable, and user-centric web applications.  
+🔹 **Expert in React, Next.js, Svelte, Astro, and Tailwind**, optimizing **performance, accessibility, and modern UI architecture**.  
+🔹 Built and optimized **design systems**.  
+🔹 **Full-stack exposure** (Node.js, Java, PHP) enhances my ability to **architect and build end-to-end solutions** with a **strong UX focus**.  
+🔹 **Problem-solver & innovator**, always exploring **cutting-edge tools** to push web performance forward.
 
 # Experience
 
-## Senior Front-end Engineer
-**Sandals Resorts**  
-08/2022 - Present | 2 years 4 months  
+## Front-end Engineer at Citi Bank
 
-[sandals.com](sandals.com)  
+Feb 2018 – Mar 2020 | 2 years 2 months | New York
+
+Citi Bank is one of the largest financial institutions in the US. I contributed to building a new internal app used by the front office for trade lookups, enhancing speed and usability.
+
+- Architected a **scalable front-end structure**, following Citi’s internal guidelines.
+- Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**.
+- Automated **code quality checks** with **Sonar, ESLint, Prettier**, and Husky, ensuring clean, maintainable code.
+- Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**.
+
+## Front-end Engineer at Sandals Resorts
+
+Mar 2020 – Jun 2023 | 3 years 3 months | New York
+
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
-The website is built in 300 pages showcasing promotions, events and booking options.
-In the peak seasons (January, August) the website attracts around 2500 users daily.  
+In the peak times (August, February) the sandals.com website attracts around 1500 Visitors daily.
 
-* Built a design system from scratch (set of common components and styles)  
-  **Result**: Consistent design across the entire project  
+My main focus was the design system used across multiple Sandals products and developing customer facing sandals.com website.
 
-* Led the architecture solution to use TailwindCss as the primary design tool and Vite bundler instead of Webpack  
-  **Result**: Performance raised to 98 %, Page load time reduced to 0.76 seconds  
+- Built a **design system from scratch**, used across Sandals’ digital products, ensuring UI consistency.
+- Led **TailwindCSS adoption**, reducing **CSS bundle size from 87 KB → 4 KB** and **improving render performance**.
+- Optimized **build process with Vite & code splitting**, cutting **bundle size by 94% (276 KB → 17 KB)**, reducing **page load time to 0.79 seconds**.
+- Implemented **microservices-based architecture**, making apps independent, maintainable, and scalable.
+- Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates.
 
-* Setup code splitting rules and conventions  
-  **Result**: Bundle size reduced to 17 kb per page  
+## Senior Front-end Consultant at RE Partners
 
-* Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation  
-
-* Configured Vite, PostCss, TailwindCss, Scss, Jest, Rtl and other tools  
-  **Result**: Consistent, easy to maintain codebase, with clean git history  
-
-* Analyzed tasks backlog, defined priorities and assigned tasks  
-
-* Attended design brainstorming, prototyping sessions  
-  **Result**: Super easy to use UI led to higher booking conversion  
-
-* Mentored junior developers and provided team members with support (e.g., mocking 3rd party APIs for testing)  
-
-* Divided the team into smaller groups for large features  
-  **Result**: Large feature release time reduced to 18 hours  
-
-*Technologies: TypeScript, Next, Redux Toolkit, Tailwind, Scss, Vitest, Jest, Rtl, Vite, GraphQL*
-
-## Senior Front-end Engineer
-**CitiBank**  
-03/2020 – 08/2022 | 2 years 6 months  
-
-Investing banking. Internal app used by the front office to manage trades.
-
-* Researched an existing design system, defined a set of components  
-  **Result**: Development time significantly reduced  
-
-* Integrated Lighthouse and ESLint accessibility checkers  
-  **Result**: Accessibility raised to 99.2%  
-
-* Optimized data storage by using HashTables  
-  **Result**: API response time reduced to 0.68 seconds  
-
-* Led the architecture solution to use Scss for styling  
-  **Result**: Consistent styles with no overrides  
-
-* Selected React Query for working with data, based on multiple requirements  
-
-* Setup code Prettier, ESLint code linter, Husky git hooks for code consistency and documentation  
-  **Result**: Consistent, easy to maintain codebase, with clean git history  
-
-*Technologies: TypeScript, React, Redux, Scss, Vitest, Jest, Rtl, Vite, RestApi*
-
-## Front-end Engineer
-**Nike**  
-02/2018 – 03/2020 | 2 years 2 months  
-
-Internal app used to manage orders.
-
-* Enhanced an existing design system  
-  **Result**: Multiple bugs resolved through many internal applications  
-
-* Setup code splitting rules and conventions  
-  **Result**: Bundle size reduced to 28 kb per screen  
-
-* Developed lazyload library from scratch  
-  **Result**: Screen load time reduced to 0.53 seconds  
-
-*Technologies: JavaScript, React, Redux, Scss, Jest, Rtl, RestApi*
+Jun 2023 – Present | 6 months | New York
 
 # Education
 
-## Salesforce Certified JavaScript Developer
-Salesforce
-2024
+**Master's Degree in Computer Science | Grade 3.8/4**  
+National University of Shipbuilding, Ukraine, 2014 - 2018
 
-## Master’s Degree in Computer Science | GPA: 3.9
-National Admiral Makarov University, Ukraine, Mykolaiv  
-2014 - 2018
+**Certified Front-end Engineer**  
+Step It Academy, Ukraine 2017
 
-## Professional Front-end certification | Grade Excellent
-“Step” IT-Academy, Ukraine, Mykolaiv  
-2017
-
-# Skills
-
-* **UI Design** | Figma ( Components, Auto layout, UI kits, wireframes, prototypes etc. ), Sketch, Illustrator, Photoshop
-* **Front-end** | TypeScript, JavaScript
-* **Frameworks** | React, Preact, Svelte, Next
-* **State managers** | Redux, MobX
-* **Styles** | Scss, Css-in-Js, ModuleCss, TailwindCss
-* **Bundlers** | Vite, Webpack
-* **Static Site Generators** | Gatsby, Astro
-* **Testing** | Vitest, Jest, React Testing Library
-* **CMS** | Strapi headless cms, Contentful, Wordpress
-* **Back-end** | Node, Express, MongoDB, Mysql, Java
+**Salesforce Certified JavaScript Developer**  
+United States 2024
 
 # Personal Projects
 
-## RTD HVAC
-HVAC, electrical, and general construction services.  
-Oct 2024 - Nov 2024  
-[https://rtdhvac.netlify.app](https://rtdhvac.netlify.app)  
-Technologies: TypeScript, Astro, Preact, React Formik & Yup, Scss, TailwindCss, Markdown.  
-[https://github.com/Leon740/rtd-hvac](https://github.com/Leon740/rtd-hvac)
+**RTD HVAC Electrical and general construction**  
+[Visit website](https://rtdhvac.netlify.app)  
+Technologies: TypeScript, Preact, Signals, Astro, React Formik & Yup, Tailwind, Markdown.
 
-## Sunrun Volunteer Calendar
-Managing employees is challenging. The app tracks employee availability such as days off, vacations, call outs.  
-Sep 2024 - Oct 2024  
-[https://sat-sunrun.netlify.app](https://sat-sunrun.netlify.app)  
-Technologies: TypeScript, React, Scss, TailwindCss, Node, Express, MongoDB.  
-[https://github.com/Leon740/sunrun_sat_front](https://github.com/Leon740/sunrun_sat_front)
+2023
+**Vladis Mobile grooming**  
+[Visit website](https://vladismobilgrooming.com)  
+Technologies: TypeScript, Preact, Signals, Astro, React Formik & Yup, Tailwind, Strapi Headless Cms.
 
-## Vladis Mobile Grooming
-Mobile Grooming services.  
-Aug 2024 - Sep 2024  
-[https://vladismobilgrooming.com](https://vladismobilgrooming.com)  
-Technologies: TypeScript, Gatsby, React, React Formik & Yup, Scss, TailwindCss, Markdown, Strapi Headless Cms.  
-[https://github.com/Leon740/vladis-mobil-grooming-frontend](https://github.com/Leon740/vladis-mobil-grooming-frontend)
+2022
+**UkrLep Electrical and Solar**  
+[Visit website](https://ukrlep.com)  
+Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Strapi Headless Cms.
 
-## UkrLep
-Electrical and Solar services in Ukraine.  
-Sep 2023 - Oct 2023  
-[https://ukrlep.com](https://ukrlep.com)  
-Technologies: JavaScript, Gatsby, React, ModuleCss, Strapi Headless Cms.  
-[https://github.com/Leon740/lep-front](https://github.com/Leon740/lep-front)
+# Skills
+
+✅ **Front-End:** React, Next.js, Svelte, Preact, Astro, TypeScript, JavaScript  
+✅ **State Management:** Redux, MobX, Zustand  
+✅ **Styling & UI:** TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
+✅ **UI/UX Design:** Figma, Sketch, Adobe Photoshop, Illustrator  
+✅ **Build Tools:** Vite, Webpack  
+✅ **Testing:** Vitest, Jest, React Testing Library, Storybook  
+✅ **Back-End:** Node.js, Express, MongoDB, MySQL, Java, PHP
