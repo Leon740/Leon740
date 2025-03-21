@@ -15,10 +15,12 @@
 
 ## Experience
 
-**Senior Front-end Engineer at RE Partners**
+### Senior Front-end Engineer at RE Partners
+
 Jun 2023 – Present | 1 year 10 months | New York
 
-**Front-end Engineer at Sandals Resorts**
+### Front-end Engineer at Sandals Resorts
+
 Mar 2020 – Jun 2023 | 3 years 4 months | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
@@ -35,7 +37,8 @@ My main focus was the design system used across multiple Sandals products and de
 
 **_Technologies_**: TypeScript, React, Redux, Next, Tailwind, Scss, Vitest, Jest, Rtl, Vite, RestApi, GraphQL
 
-**Front-end Engineer at Citi Bank**
+### Front-end Engineer at Citi Bank
+
 Feb 2018 – Mar 2020 | 2 years 2 months | New York
 
 Citi Bank is one of the largest financial institutions in the US. I contributed to building a new internal app used by the front office for trade lookups, enhancing speed and usability.
@@ -49,13 +52,16 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 ## Education
 
-**Master's Degree in Computer Science | Grade 3.8/4**  
+### Master's Degree in Computer Science | Grade 3.8/4
+
 National University of Shipbuilding, Ukraine, 2014 - 2018
 
-**Salesforce Certified JavaScript Developer**  
+### Salesforce Certified JavaScript Developer
+
 Salesforce, New York, 2024
 
-**Certified Front-end Engineer**  
+### Certified Front-end Engineer
+
 Step IT Academy, Ukraine, 2017
 
 ## Personal Projects
