@@ -51,6 +51,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 **_Technologies_**: TypeScript, React, ReactQuery, Axios, Zustand, Scss, ModuleCss, Jest, Rtl, Webpack, RestApi
 
 ### Front-end Engineer at Fortune-IT
+
 Feb 2016 - Feb 2018 | 2 years | Ukraine
 
 Fortune-It is a digital agency working with UAE and USA customers.
@@ -59,17 +60,17 @@ My main focus was developing Front-end on multiple projects using Wordpress, Joo
 
 ## Education
 
-### Master's Degree in Computer Science | Grade 3.8/4
-
-National University of Shipbuilding, Ukraine, 2014 - 2018
-
 ### Salesforce Certified JavaScript Developer
 
 Salesforce, New York, 2024
 
-### Certified Front-end Engineer
+### Master's Degree in Computer Science | GPA 3.8/4
 
-Step IT Academy, Ukraine, 2017
+National University of Shipbuilding, Ukraine, 2014 - 2018
+
+### Professional Front-end Certification | Grade Excellent
+
+Step IT-Academy, Ukraine, 2017
 
 ## Personal Projects
 
