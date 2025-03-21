@@ -66,17 +66,20 @@ Step IT Academy, Ukraine, 2017
 
 ## Personal Projects
 
-**RTD HVAC Electrical and general construction**  
+### RTD HVAC Electrical and general construction
+
 [Visit website](https://rtdhvac.netlify.app)  
 Technologies: TypeScript, Preact, Signals, Astro, React Formik & Yup, Tailwind, Scss, Strapi Headless Cms.  
 _2024_
 
-**Vladis Mobile grooming**  
+### Vladis Mobile grooming
+
 [Visit website](https://vladismobilgrooming.com)  
 Technologies: TypeScript, Preact, Signals, Astro, React Formik & Yup, Tailwind, Scss, Strapi Headless Cms.  
 _2023_
 
-**UkrLep Electrical and Solar**  
+### UkrLep Electrical and Solar
+
 [Visit website](https://ukrlep.com)  
 Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Scss, Strapi Headless Cms.  
 _2022_
