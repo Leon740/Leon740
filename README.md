@@ -50,6 +50,13 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 **_Technologies_**: TypeScript, React, ReactQuery, Axios, Zustand, Scss, ModuleCss, Jest, Rtl, Webpack, RestApi
 
+### Front-end Engineer at Fortune-IT
+Feb 2016 - Feb 2018 | 2 years | Ukraine
+
+Fortune-It is a digital agency working with UAE and USA customers.
+
+My main focus was developing Front-end on multiple projects using Wordpress, Joomla, Magento.
+
 ## Education
 
 ### Master's Degree in Computer Science | Grade 3.8/4
