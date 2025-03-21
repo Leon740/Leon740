@@ -8,7 +8,7 @@
 ## Summary
 
 🔹 **Passionate Front-end Engineer with 8+ years of experience** developing high-performance, scalable, and user-centric web applications.  
-🔹 **Expert in React, Next, Astro, Svelte, and Tailwind**, optimizing **performance, accessibility, and modern UI architecture**.  
+🔹 **Expert in React, Next, Astro, Tailwind and Svelte**, optimizing **performance, accessibility, and modern UI architecture**.  
 🔹 Built and optimized **design systems**.  
 🔹 **Full-stack exposure** (Node.js, Java, PHP) enhances my ability to **architect and build end-to-end solutions** with a **strong UX focus**.  
 🔹 **Problem-solver & innovator**, always exploring **cutting-edge tools** to push web performance forward.
@@ -48,15 +48,15 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 - Automated **code quality checks** with **Sonar, ESLint, Prettier, and Husky**, ensuring clean, maintainable code.
 - Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**.
 
-**_Technologies_**: TypeScript, React, ReactQuery, Axios, Zustand, Scss, ModuleCss, Jest, Rtl, Webpack, RestApi
+**_Technologies_**: TypeScript, React, Zustand, ModuleCss, Scss, Jest, Rtl, Webpack, RestApi, ReactQuery, Axios
 
 ### Front-end Engineer at Fortune-IT
 
 Feb 2016 - Feb 2018 | 2 years | Ukraine
 
-Fortune-It is a digital agency working with UAE and USA customers.
+Fortune-IT is a digital agency working with USA and UAE customers.
 
-My main focus was developing Front-end on multiple projects using Wordpress, Joomla, Magento.
+My main focus was developing Front-end on multiple projects using Wordpress, Joomla, Magento etc.
 
 ## Education
 
