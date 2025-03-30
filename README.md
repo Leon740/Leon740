@@ -7,11 +7,11 @@
 
 ## Summary
 
-💻 Front-end Engineer with 8+ years of experience building fast, scalable, and user-friendly web applications
-🎨 I design in Figma, code in TypeScript, and build with React, Next.js, Astro, and Svelte
-📚 Inspired by Clean Code and real-world challenges — I care deeply about code quality and architecture
-⚙️ I choose tools with intent, optimize for performance, and craft intuitive, accessible UIs
-🌐 Full-stack exposure (Node.js, Java, PHP) helps me build end-to-end solutions with strong UX thinking
+💻 Front-end Engineer with 8+ years of experience building fast, scalable, and user-friendly web applications  
+🎨 I design in Figma, code in TypeScript, and build with React, Next.js, Astro, and Svelte  
+📚 Inspired by Clean Code and real-world challenges — I care deeply about code quality and architecture  
+⚙️ I choose tools with intent, optimize for performance, and craft intuitive, accessible UIs  
+🌐 Full-stack exposure (Node.js, Java, PHP) helps me build end-to-end solutions with strong UX thinking  
 🚀 Motivated by purpose and innovation — excited to contribute to mission-driven companies like Tesla
 
 ## Experience
