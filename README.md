@@ -7,12 +7,12 @@
 
 ## Summary
 
-💻 Front-end Engineer with 8+ years of experience building fast, scalable, and user-friendly web applications  
+💻 **Passionate Front-end Engineer with 8+ years of experience** building fast, scalable, and user-friendly web applications  
 🎨 I design in Figma, code in TypeScript, and build with React, Next.js, Astro, and Svelte  
 📚 Inspired by Clean Code and real-world challenges — I care deeply about code quality and architecture  
-⚙️ I choose tools with intent, optimize for performance, and craft intuitive, accessible UIs  
-🌐 Full-stack exposure (Node.js, Java, PHP) helps me build end-to-end solutions with strong UX thinking  
-🚀 Motivated by purpose and innovation — excited to contribute to mission-driven companies like Tesla
+⚙️ Built and optimized **design systems**  
+🌐 **Full-stack exposure** (Node.js, Java, PHP) helps me build end-to-end solutions with strong UX thinking  
+🚀 Motivated by purpose and innovation — excited to contribute to **mission-driven companies**
 
 ## Experience
 
@@ -46,7 +46,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 - Architected a **scalable front-end structure**, following Citi’s internal guidelines.
 - Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**.
-- Automated **code quality checks** with **Sonar, ESLint, Prettier, and Husky**, ensuring clean, maintainable code.
+- Automated **code quality checks** with **Sonar, ESLint, Prettier, Husky**, ensuring clean, maintainable code.
 - Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**.
 
 **_Technologies_**: TypeScript, React, Zustand, ModuleCss, Scss, Jest, Rtl, Webpack, RestApi, ReactQuery, Axios
