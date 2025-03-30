@@ -3,15 +3,16 @@
 📌 **Senior Front-end Engineer** (8+ Years)  
 💻 **Tech Stack:** TypeScript, React, Next, Astro, Tailwind, Svelte, Figma  
 📍 **Location:** New York City (Open to Relocation) | 🟢 Green Card Holder  
-🔗 **[LinkedIn](linkedin.com/in/leon740)** | 🔗 **[GitHub](github.com/Leon740)** | ✉️ **dobrinovleonid@gmail.com** | 📞 **215-987-7259**
+🔗 **[LinkedIn](linkedin.com/in/leon740)** | 🔗 **[GitHub](github.com/Leon740)** | ✉️ **[dobrinovleonid@gmail.com](mailto:dobrinovleonid@gmail.com)** | 📞 **[215-987-7259](tel:215-987-7259)**
 
 ## Summary
 
-🔹 **Passionate Front-end Engineer with 8+ years of experience** developing high-performance, scalable, and user-centric web applications.  
-🔹 **Expert in React, Next, Astro, Tailwind and Svelte**, optimizing **performance, accessibility, and modern UI architecture**.  
-🔹 Built and optimized **design systems**.  
-🔹 **Full-stack exposure** (Node.js, Java, PHP) enhances my ability to **architect and build end-to-end solutions** with a **strong UX focus**.  
-🔹 **Problem-solver & innovator**, always exploring **cutting-edge tools** to push web performance forward.
+💻 Front-end Engineer with 8+ years of experience building fast, scalable, and user-friendly web applications
+🎨 I design in Figma, code in TypeScript, and build with React, Next.js, Astro, and Svelte
+📚 Inspired by Clean Code and real-world challenges — I care deeply about code quality and architecture
+⚙️ I choose tools with intent, optimize for performance, and craft intuitive, accessible UIs
+🌐 Full-stack exposure (Node.js, Java, PHP) helps me build end-to-end solutions with strong UX thinking
+🚀 Motivated by purpose and innovation — excited to contribute to mission-driven companies like Tesla
 
 ## Experience
 
@@ -26,10 +27,10 @@ Mar 2020 – Jun 2023 | 3 years 4 months | New York
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
 In the peak times (August, February) the sandals.com website attracts around 1500 visitors daily.
 
-My main focus was the design system used across multiple Sandals products and developing customer facing sandals.com website.
+My main focus was creating a design system used across multiple Sandals products and developing customer facing website sandals.com.
 
-- Built a **design system from scratch**, used across Sandals’ digital products, ensuring UI consistency.
-- Led the **TailwindCSS adoption**, reducing **CSS bundle size from 87 kb → 21 kb** and **improving performance**.
+- Built a **design system from scratch**, used across Sandals’ digital products, ensuring **UI consistency**.
+- Led the **TailwindCSS integration**, reducing **CSS bundle size from 87 kb → 21 kb** and improving performance.
 - Optimized **build process with Vite code splitting**, cutting **bundle size by 94% (276 kb → 17 kb)**, reducing **page load time to 0.79s**.
 - Implemented **microservices-based architecture**, making apps independent, maintainable, and scalable.
 - Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates.
@@ -60,15 +61,15 @@ My main focus was developing Front-end on multiple projects using Wordpress, Joo
 
 ## Education
 
-### Salesforce Certified JavaScript Developer
-
-Salesforce, New York, 2024
-
 ### Master's Degree in Computer Science | GPA 3.8/4
 
 National University of Shipbuilding, Ukraine, 2014 - 2018
 
-### Professional Front-end Certification | Grade Excellent
+### Salesforce Certified JavaScript Developer
+
+Salesforce, New York, 2024
+
+### Professional Front-end Certification | Grade: Excellent
 
 Step IT-Academy, Ukraine, 2017
 
@@ -102,7 +103,8 @@ _2022_
 ✅ **Styling:** TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
 ✅ **Bundlers:** Vite, Webpack  
 ✅ **Testing:** Vitest, Jest, React Testing Library, Storybook  
+✅ **CMS:** Strapi, Contentful, Wordpress  
 ✅ **UI/UX Design:** Figma, Sketch, Adobe Photoshop, Illustrator  
-✅ **Back-End:** Node.js, Java, PHP, Express, Nginx, MongoDB, MySQL, Postgres
+✅ **Back-End:** Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP
 
-Tesla, Electric Vehicles, Renewable Energy, Battery Technology, Autonomous Driving, AI, Neural Networks, Machine Learning, Cybertruck, Tesla Bot, Tesla AI Day, Self-Driving, FSD, Energy Storage, Powerwall, Tesla Autopilot, Tesla Infotainment System, Three.js, WebGL, Canvas API, GPU Rendering, WebAssembly, High-Performance UI, Real-Time Data Visualization, WebSockets, GraphQL, React Fiber, Concurrent Mode, Recoil, Apollo Client, D3.js, Animation Performance Optimization, Responsive Design, Web Accessibility, UX/UI Engineering, Dashboard Development, HMI (Human-Machine Interface), Interactive Data Visualizations, IoT Dashboards, Augmented Reality (AR), WebXR, OpenGL ES, Computer Vision, 3D UI Design, Low Latency UI, Code-Splitting, Bundle Optimization, Webpack Profiling, V8 Engine Performance, Memory Profiling, Lighthouse Audits, Accessibility Audits, SSR, ISR, PWA, Edge Computing, Cloud Computing, AWS, Google Cloud, Firebase, WebRTC, Electron.js, GraphQL Federation, Node.js Performance Optimization, Load Balancing, Redis, WebSockets for Real-Time Data, Innovation, Disruptive Technology, Fast-Paced Environment, Agile, Cross-Functional Collaboration, High-Impact Teams, Mission-Driven Engineering, Tesla Engineering Principles, First-Principles Thinking, Problem-Solving Mindset, Elon Musk Philosophy, High-Performance Culture, Iterative Development, Speed of Execution, Pushing Boundaries in Tech, Next-Gen Interfaces, Human-Centered Design, Scalable Systems, Robotics UI, In-Vehicle UI, Touchscreen Interfaces, Infotainment Systems.
+Tesla, Meta, Facebook, Reality Labs, Robotics, React, TypeScript, Next.js, JavaScript, Svelte, TailwindCSS, WebGL, Three.js, Node.js, Astro, UX/UI Design, Frontend Performance, Responsive Design, Front-end Architecture, Accessibility, Autonomous Systems, Autopilot, Full Self-Driving, Cybertruck, Electric Vehicles, EV, Lithium Battery, Dojo, Optimus, Tesla Bot, Gigafactory, Embedded Systems, CAN bus, Automotive Software, Real-time Systems, Industrial Automation, AI, ML, Machine Learning, Deep Learning, PyTorch, Computer Vision, Object Detection, SLAM, Sensor Fusion, ROS, Robot Operating System, Lidar, Motion Planning, Reinforcement Learning, Robotics Simulation, Gazebo, OpenCV, Mechatronics, Robotic Arm, Oculus, VR, AR, XR, Spark AR, Graph API, Distributed Systems, Large Scale Systems, Product Engineer, Ads Platform, Docker, GitHub, Agile, CI/CD, Unit Testing, Jest, Vitest, GraphQL, Web Animation, WebAssembly, Human-Centered Design, High-Performance Computing
