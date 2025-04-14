@@ -1,7 +1,7 @@
 # Leonid Dobrinov
 
 📌 **Senior Front-end Engineer** (10+ years)  
-💻 **Tech Stack:** TypeScript, React, Next, Astro, Tailwind, Svelte  
+💻 **Tech Stack:** TypeScript, React, Next, Astro, Tailwind, Svelte, Figma  
 🇺🇸 New York (Open to Relocation)  
 🟢 Green Card Holder  
 🔗 **[LinkedIn](linkedin.com/in/leon740)** | 🔗 **[GitHub](github.com/Leon740)** | ✉️ **[dobrinovleonid@gmail.com](mailto:dobrinovleonid@gmail.com)** | 📞 **[215-987-7259](tel:215-987-7259)**
