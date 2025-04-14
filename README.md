@@ -20,7 +20,7 @@
 
 ### Front-end Engineer at RE Partners -> Citi Bank
 
-Sep 2024 - present | 8 months | New York
+Sep 2024 - Present | 8 months | New York
 
 RE Partners is a top consulting company, which clients are Citi Bank, Gym Shark, New York Times.
 
@@ -28,7 +28,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 - Architected a **scalable front-end structure**, following Citi’s internal guidelines.
 - Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**.
-- Led **migration from Nginx to Express server**, which made the **work with API and static assets** easy and fast.
+- Led migration from **Nginx to Express server**, which made the **work with API and static assets** easy and fast.
 - Automated **code quality checks** with **Sonar, ESLint, Prettier, Husky**, ensuring clean, maintainable code.
 - Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**.
 
@@ -36,7 +36,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 ### Front-end Engineer at Sandals Resorts
 
-June 2020 - Sep 2024 | 4 years 4 months | New York
+Jun 2020 - Sep 2024 | 4 years 4 months | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
 In the peak times (August, February) the sandals.com website attracts around 1500 visitors daily.
@@ -54,7 +54,7 @@ My main focus was creating a design system used across multiple Sandals products
 
 ### Front-end Engineer at ADP
 
-Feb 2017 - June 2020 | 3 years 4 months | New York
+Feb 2017 - Jun 2020 | 3 years 4 months | New York
 
 ADP is a large company providing accounting, retirement savings services.
 
