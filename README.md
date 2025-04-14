@@ -123,3 +123,10 @@ _2022_
 ✅ **CMS:** Strapi, Contentful, Wordpress  
 ✅ **UI/UX Design:** Figma, Sketch, Adobe Photoshop, Illustrator  
 ✅ **Back-End:** Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP
+
+<!--
+Keywords: Front-end Engineer, JavaScript Developer, TypeScript Expert, React Developer, Next.js, Tailwind, UI/UX, Svelte, Astro, Web Components, Stencil.js, Redux, Zustand, GraphQL, REST API, Node.js, Express, Webpack, Vite, Testing, Jest, React Testing Library, Playwright, Accessibility, SEO, Design System, Software Architecture, Responsive Design, Performance Optimization, Agile, Scrum
+
+Interests: Tesla, Meta, automation, AI, robotics, sustainable technology, mission-driven engineering, clean energy, autonomous systems, innovation, frontend leadership, human-centered design.
+Tesla, Meta, Facebook, Reality Labs, Robotics, React, TypeScript, Next.js, JavaScript, Svelte, TailwindCSS, WebGL, Three.js, Node.js, Astro, UX/UI Design, Frontend Performance, Responsive Design, Front-end Architecture, Accessibility, Autonomous Systems, Autopilot, Full Self-Driving, Cybertruck, Electric Vehicles, EV, Lithium Battery, Dojo, Optimus, Tesla Bot, Gigafactory, Embedded Systems, CAN bus, Automotive Software, Real-time Systems, Industrial Automation, AI, ML, Machine Learning, Deep Learning, PyTorch, Computer Vision, Object Detection, SLAM, Sensor Fusion, ROS, Robot Operating System, Lidar, Motion Planning, Reinforcement Learning, Robotics Simulation, Gazebo, OpenCV, Mechatronics, Robotic Arm, Oculus, VR, AR, XR, Spark AR, Graph API, Distributed Systems, Large Scale Systems, Product Engineer, Ads Platform, Docker, GitHub, Agile, CI/CD, Unit Testing, Jest, Vitest, GraphQL, Web Animation, WebAssembly, Human-Centered Design, High-Performance Computing
+-->
