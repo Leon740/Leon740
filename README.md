@@ -20,7 +20,7 @@
 
 ### Front-end Engineer at RE Partners -> Citi Bank
 
-Sep 2024 - present | 7 months | New York
+Sep 2024 - present | 8 months | New York
 
 RE Partners is a top consulting company, which clients are Citi Bank, Gym Shark, New York Times.
 
@@ -36,7 +36,7 @@ Citi Bank is one of the largest financial institutions in the US. I contributed 
 
 ### Front-end Engineer at Sandals Resorts
 
-June 2020 - Sep 2024 | 4 years 3 months | New York
+June 2020 - Sep 2024 | 4 years 4 months | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services.
 In the peak times (August, February) the sandals.com website attracts around 1500 visitors daily.
@@ -66,11 +66,11 @@ ADP is a large company providing accounting, retirement savings services.
 
 ### Front-end Engineer at Fortune-IT
 
-Feb 2015 - Feb 2017 | 2 years | New York
+Feb 2015 - Feb 2017 | 2 years | Ukraine
 
 Fortune-IT is a digital agency providing web development services.
 
-- Chose **CMS and frameworks** that **aligned with customer goals**. For example, chose WordPress to simplify content editing for the client.
+- Choose **CMS and frameworks** that **aligned with customer goals**. For example, chose WordPress to simplify content editing for the client.
 - Improved **UI designs** for **better usability and visual appeal**.
 - Reduced **page load time** significantly by optimizing **bundle size, static assets storage**.
 
