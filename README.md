@@ -18,15 +18,11 @@
 
 ## Experience
 
-### Front-end Engineer at RE Partners -> Citi Bank
+### Front-end Engineer at RE Partners
 
 Sep 2024 - Present | 8 months | New York
 
-RE Partners is a top consulting company, which clients are Citi Bank, Gym Shark, New York Times.
-
-Citi Bank is one of the largest financial institutions in the US. I contributed to building a new internal app used by the front office for trade lookups, enhancing speed and usability.
-
-- Architected a **scalable front-end structure**, following Citi’s internal guidelines.
+- Architected a **scalable front-end structure**, following internal guidelines.
 - Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**.
 - Led migration from **Nginx to Express server**, which made the **work with API and static assets** easy and fast.
 - Automated **code quality checks** with **Sonar, ESLint, Prettier, Husky**, ensuring clean, maintainable code.
