@@ -21,8 +21,8 @@
 Sep 2024 - Present | 8 months | New York
 
 - Architected a **scalable front-end structure**, following internal guidelines
-- Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**
-- Led migration from **Nginx to Express server**, which made the **work with API and static assets** easy and fast
+- Developed **reusable API hooks** with **React Query & Axios**, cutting development time significantly
+- Led migration from **Nginx to Express** server, which made the work with **API and static assets** easy and fast
 - Automated **code quality checks** with **Sonar, ESLint, Prettier, Husky**, ensuring clean, maintainable code
 - Optimized **API response times** by using **Hash Tables**, reducing **query time to 0.27s**
 
@@ -38,7 +38,7 @@ In the peak times (August, February) the sandals.com website attracts around 150
 My main focus was creating a design system used across multiple Sandals products and developing customer facing website sandals.com.
 
 - Built a **design system from scratch**, used across Sandals’ digital products, ensuring **UI consistency**
-- Led the **Tailwind.css integration**, reducing **CSS bundle size from 87 kb → 21 kb** and improving performance
+- Led the **Tailwind.css integration**, reducing **CSS bundle size from 87 kb → 21 kb** and improving **performance**
 - Optimized **build process with Vite code splitting**, cutting **bundle size by 94% (276 kb → 17 kb)**, reducing **page load time to 0.79s**
 - Implemented **microservices-based architecture**, making **apps independent, maintainable, and scalable**
 - Worked closely with the **design team, conducting UX A/B testing** that **reduced booking time by 46%**, improving conversion rates
