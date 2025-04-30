@@ -20,8 +20,6 @@
 
 Sep 2024 - Present | 8 months | New York
 
-Finance domain.
-
 - Architected a **scalable front-end structure**, following internal guidelines
 - Developed **reusable API hooks with React Query & Axios**, cutting **development time significantly**
 - Led migration from **Nginx to Express server**, which made the **work with API and static assets** easy and fast
