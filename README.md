@@ -8,7 +8,7 @@
 💻 Senior Front-end Engineer with 10+ years of experience, building **fast, scalable, and accessible web applications** with React.js, Next.js, Astro.js, and Svelte.js  
 🧠 **Passionate about code quality and architecture**, inspired by books like _Clean Code, The Pragmatic Programmer, and Grokking Algorithms_ 
 🎨 I design in Figma, code in TypeScript, and care deeply about creating user-friendly experiences that drive results  
-⚙️ Built and optimized **design systems from the ground up**, ensuring **consistency across teams and products** 
+⚙️ Built and optimized **design systems from the ground up**, ensuring **consistency across teams and products**  
 🌐 **Full-stack exposure** (Node.js, Java, PHP) allows me to collaborate across the stack and think holistically  
 📈 **I love helping businesses grow** — analyzing pain points, simplifying workflows, and delivering thoughtful UI solutions  
 🚀 My long-term goal is contributing to **mission-driven innovation at the intersection of technology and impact**
