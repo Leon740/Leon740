@@ -90,7 +90,7 @@ Step IT-Academy, Ukraine, 2017
 
 ✅ **Languages:** TypeScript, JavaScript  
 ✅ **Frameworks:** React, Preact, Svelte, Stencil  
-✅ **Meta-Frameworks:** Next, Astro
+✅ **Meta-Frameworks:** Next, Astro  
 ✅ **State Managers:** Redux, MobX, Zustand  
 ✅ **API:** Axios, ReactQuery, Rest, GraphQL  
 ✅ **Styling:** TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
