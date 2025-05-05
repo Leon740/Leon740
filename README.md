@@ -98,7 +98,7 @@ Step IT-Academy, Ukraine, 2017
 ✅ **Testing:** Vitest, Jest, React Testing Library, Playwright, Storybook  
 ✅ **CMS:** Strapi, Contentful, Wordpress  
 ✅ **UI/UX Design:** Figma, Sketch, Photoshop, Illustrator  
-✅ **Back-End:** Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP
+✅ **Back-End:** Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP  
 ✅ **Performance & Architecture:** Lighthouse, Lazy Loading, Code Splitting, Micro-frontend Architecture  
 ✅ **Dev Tools:** Git, Husky, ESLint, Prettier, CI/CD (GitHub Actions)  
 ✅ **Accessibility & SEO:** WCAG, ARIA, Lighthouse, Semantic HTML
