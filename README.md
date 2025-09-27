@@ -3,7 +3,7 @@
 📌 **Front-end Engineer** (10+ years, TypeScript, React, Next, Angular, Vue, Svelte)  
 🇺🇸 New York (Open to Relocation)  
 🟢 Green Card Holder
-🔗 **[LinkedIn](https://www.linkedin.com/in/leon740/)** | 🔗 **[GitHub](https://github.com/Leon740)** | ✉️ **[dobrinovleonid@gmail.com](mailto:dobrinovleonid@gmail.com)** | 📞 **[+1-215-987-7259](tel:12159877259)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/leon740/)** | 🔗 **[GitHub](https://github.com/Leon740)** | ✉️ **[leonid.hastings@gmail.com](mailto:leonid.hastings@gmail.com)** | 📞 **[+1-215-987-7259](tel:12159877259)**
 
 ## Experience
 
@@ -16,7 +16,7 @@ Working for one of the largest financial institutions in the US.
 
 _Project_: internal tools.  
 _Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.  
-_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.  
+_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
 
 - Developed new projects from scratch. Selected toolset, structure, conventions for them.
 - Interacted with end users and analyzed their pain points.
