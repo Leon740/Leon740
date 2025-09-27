@@ -14,9 +14,9 @@ Sep 2024 - Present | 1 yr 1 mo | New York
 
 Working for one of the largest financial institutions in the US.
 
-_Project_: internal tools.
-_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.
-_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
+_Project_: internal tools.  
+_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.  
+_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.  
 
 - Developed new projects from scratch. Selected toolset, structure, conventions for them.
 - Interacted with end users and analyzed their pain points.
