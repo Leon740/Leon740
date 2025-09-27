@@ -30,8 +30,8 @@ Jun 2020 - Sep 2024 | 4 yrs 4 mos | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
 
-_Project_: Design system used across multiple apps. sandals.com customer engaging website.
-_Team_: 5 Designers, 5 Front-end, 3 Back-end, 3 QAs, 2 Product owners.
+_Project_: Design system used across multiple apps. sandals.com customer engaging website.  
+_Team_: 5 Designers, 5 Front-end, 3 Back-end, 3 QAs, 2 Product owners.  
 _Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
 
 - Developed design system from scratch used across multiple apps, reducing development and maintenance time and ensuring consistency of the brand style in all of the apps.
@@ -50,8 +50,8 @@ Feb 2017 - Jun 2020 | 3 yrs 5 mos | New York
 
 ADP provides accounting services.
 
-_Project_: retirement dashboards.
-_Team_: 4 Designers, 4 Front-end, other Back-end teams, 2 QAs, 2 Product owners.
+_Project_: retirement dashboards.  
+_Team_: 4 Designers, 4 Front-end, other Back-end teams, 2 QAs, 2 Product owners.  
 _Technologies_: Figma, TypeScript, Stencil, React, Utility-First CSS, Scss, Jest, Playwright, Webpack, Storybook.
 
 - Developed components with Stencil framework and ADP design system. Designed data-structures for them. Covered unit testing (Jest), end-to-end testing (Playwright). Documented with Storybook.
@@ -67,8 +67,8 @@ Feb 2015 - Feb 2017 | 2 yrs 1 mo | New York
 
 Fortune-IT is a digital agency providing digital transformation services.
 
-_Project_: multiple websites.
-_Team_: 2 Designers, 2 Front-end, 2 Back-end, 1 main leader.
+_Project_: multiple websites.  
+_Team_: 2 Designers, 2 Front-end, 2 Back-end, 1 main leader.  
 _Technologies_: Figma, Html, Css, Scss, JavaScript, Vue, Webpack, Wordpress, Magento, Joomla.
 
 - Selected optimal frameworks and CMS for projects.
