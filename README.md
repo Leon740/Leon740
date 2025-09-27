@@ -1,100 +1,86 @@
-# Leonid Dobrinov
+# Leonid Hastings
 
 📌 **Front-end Engineer** (10+ years, TypeScript, React, Next, Angular, Vue, Svelte)  
 🇺🇸 New York (Open to Relocation)  
 🟢 Green Card Holder
 🔗 **[LinkedIn](https://www.linkedin.com/in/leon740/)** | 🔗 **[GitHub](https://github.com/Leon740)** | ✉️ **[dobrinovleonid@gmail.com](mailto:dobrinovleonid@gmail.com)** | 📞 **[+1-215-987-7259](tel:12159877259)**
 
-- I’m a Senior Front-End Engineer with 10+ years of building fast, scalable, and beautiful interfaces that run at the core of real businesses
-- I’ve worked with React, Next.js, Angular, Vue, Svelte, Stencil, and more — I know how to pick the right tool for the job and push it to the limit. I care deeply about clean code, solid architecture, and pixel-perfect execution
-- I build complex dashboards, real-time data UIs, design systems from scratch, and I love turning messy workflows into simple, intuitive experiences. I enjoy solving performance puzzles, scaling large apps, and making sure that my UIs stay fast, accessible, and easy to maintain
-- Beyond front-end, I have full-stack exposure (Node.js, APIs, back-end basics) — I work cross-team, speak the language of design and data, and keep projects moving
-- Lately, I’m driven to grow at the intersection of AI, Robotics, and IoT — using my front-end skills to build control panels, monitoring tools, and next-generation human-machine interfaces for autonomous systems and smart hardware
-- My goal is to join a mission-driven team, innovator, where cutting-edge software meets the physical world.
-
 ## Experience
 
-### Front-end Engineer at RE Partners
+### Front-end Engineer
 
-Sep 2024 - Present | 11 months | New York
+RE Partners
+Sep 2024 - Present | 1 yr 1 mo | New York
 
-Worked on internal tools for one of the largest US banks.
+Working for one of the largest financial institutions in the US.
 
-- Architected scalable front-end structures of new projects, following internal guidelines (e.g. frameworks, testing tools, databases, servers, code quality checkers)
+_Project_: internal tools.
+_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.
+_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
 
-- Analyzed and improved the UI design of new/old projects
+- Developed new projects from scratch. Selected toolset, structure, conventions for them.
+- Interacted with end users and analyzed their pain points.
+- Improved Figma UI designs.
+- Analyzed legacy apps. Wrote specs for improvement. Coordinated with assigned leaders.
 
-- Developed reusable API hooks with React Query & Axios, cutting development time significantly
+### Front-end Engineer
 
-- Analyzed back-end apis and suggested improvements (e.g. using hash maps)
+Sandals Resorts
+Jun 2020 - Sep 2024 | 4 yrs 4 mos | New York
 
-- Inspected multiple legacy apps, created specs for improvements, coordinated project's tech leads
+Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
 
-Technologies: Figma, TypeScript, React, ReactQuery, Axios, Angular, ModuleCss, Scss, Vitest, Jest, Rtl, Playwright, Vite, RestApi
+_Project_: Design system used across multiple apps. sandals.com customer engaging website.
+_Team_: 5 Designers, 5 Front-end, 3 Back-end, 3 QAs, 2 Product owners.
+_Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
 
-### Front-end Engineer at Sandals Resorts
+- Developed design system from scratch used across multiple apps, reducing development and maintenance time and ensuring consistency of the brand style in all of the apps.
+- Selected tools for design system: React, TypeScript, Vitest, Playwright, Storybook.
+- Set up project structure, conventions, linters.
+- Adopted TailwindCss reducing development time and bundle size significantly.
+- Took part in design system QA sessions.
+- Selected Next.js SSR framework for new version of 300 pages sandals.com website.
+- Interacted closely with design team on A/B testing stage, increasing booking conversion rate by 46%.
+- Optimized accessibility, Seo by using utilities and packages while development and Lighthouse audits.
 
-Jun 2020 - Sep 2024 | 4 years 4 months | New York
+### Front-end Engineer
 
-Sandals Resorts own and operate 30+ resorts in the Caribbean, providing luxury vacation services. In the peak times (August, February) the sandals.com website attracts around 1500 visitors daily.
+ADP
+Feb 2017 - Jun 2020 | 3 yrs 5 mos | New York
 
-- My main focus was creating a design system used across multiple Sandals products and developing customer facing website sandals.com.
+ADP provides accounting services.
 
-- Built a design system from scratch, used across Sandals’ digital products, ensuring UI consistency and high performance
+_Project_: retirement dashboards.
+_Team_: 4 Designers, 4 Front-end, other Back-end teams, 2 QAs, 2 Product owners.
+_Technologies_: Figma, TypeScript, Stencil, React, Utility-First CSS, Scss, Jest, Playwright, Webpack, Storybook.
 
-- Led the Tailwind.css integration, reducing CSS bundle size by 90% average
+- Developed components with Stencil framework and ADP design system. Designed data-structures for them. Covered unit testing (Jest), end-to-end testing (Playwright). Documented with Storybook.
+- Solved design system bugs by reporting, joining QA sessions and making workarounds as a last resort.
+- Analyzed and improved other modules. (Boyscout rule)
+- Researched and analyzed solutions for challenges.
+  Example: Ag-Grid vs custom table wrapper with encapsulated functionality.
 
-- Setup structure for 300+ pages app (e.g. static site generation, TypeScript, React, ReactQuery, Redux, Jest, RTL, Playwright)
+### Front-end Engineer
 
-- Optimized build process with Vite code splitting, cutting bundle size by 70% average
+Fortune-IT
+Feb 2015 - Feb 2017 | 2 yrs 1 mo | New York
 
-- Implemented microservices-based architecture, making apps independent, maintainable, and scalable
+Fortune-IT is a digital agency providing digital transformation services.
 
-- Worked closely with the design team, conducting UX A/B testing that reduced booking time by 46%
+_Project_: multiple websites.
+_Team_: 2 Designers, 2 Front-end, 2 Back-end, 1 main leader.
+_Technologies_: Figma, Html, Css, Scss, JavaScript, Vue, Webpack, Wordpress, Magento, Joomla.
 
-- Optimized accessibility for screen readers and keyboards using automated code checkers, Lighthouse audits, raising accessibility score to 98%
-
-Technologies: Figma, TypeScript, React, ReactQuery, Redux, Next, Astro, Tailwind, Scss, Vitest, Jest, Rtl, Playwright, Vite, RestApi, GraphQL
-
-### Front-end Engineer at ADP
-
-Feb 2017 - Jun 2020 | 3 years 5 months | New York
-
-ADP provides accounting and retirement savings services.
-
-- Setup web-components front-end structure (e.g. Stencil framework, Storybook, Playwright, code quality checkers)
-
-- Established development conventions: Git commit standards with Husky hooks, ESLint and Prettier for code consistency
-
-- Built complex reusable web components with Stencil + Tailwind, handling both UI and core business logic
-
-- Automized documentation process with Storybook (every component is unique in specific environments)
-
-- Made the process of consuming components easy and fast (every component comes bundled)
-
-Technologies: Figma, TypeScript, Stencil, Tailwind, Jest, Playwright, Webpack, RestApi
-
-### Front-end Engineer at Fortune-IT
-
-Feb 2015 - Feb 2017 | 2 years 1 month | Ukraine
-
-Fortune-IT is a digital agency providing web development services.
-
-- Selected appropriate CMS and frameworks (e.g., WordPress, Joomla, Magento) based on project scope and client needs, prioritizing ease of content management and scalability
-
-- Translated Figma designs into responsive UI with HTML, CSS/SCSS, and JavaScript
-
-- Designed and implemented custom themes and plugins to match branding and functionality requirements
-
-- Developed and maintained PHP-based back-end functionality across CMS platforms
-
-Technologies: Figma, Html, Css, Scss, JavaScript, Php, Wordpress, Joomla, Magento
+- Selected optimal frameworks and CMS for projects.
+- Transformed designs into responsive websites.
+- Customized CMS functionality (WordPress, Magento, Joomla).
+- Improved SEO based on Lighthouse audits.
 
 ## Education
 
 ### Master's Degree in Computer Science | GPA 3.8/4
 
-National University of Shipbuilding, Ukraine, 2011 - 2017
+National University of Shipbuilding, Ukraine, 2011 - 2015
 
 ### Salesforce Certified JavaScript Developer
 
@@ -102,13 +88,13 @@ Salesforce, New York, 2025
 
 ### Professional Front-end Certification | Grade: Excellent
 
-Step IT-Academy, Ukraine, 2017
+Step IT-Academy, Ukraine, 2015
 
 ## Skills
 
 ✅ **Languages**: TypeScript, JavaScript
 ✅ **Frameworks**: React, Preact, Angular, Vue, Svelte, Stencil
-✅ **Meta-Frameworks**: Next, Astro 
+✅ **Meta-Frameworks**: Next, Astro
 ✅ **State Managers**: Redux, MobX, Zustand
 ✅ **API**: Axios, ReactQuery, Rest, GraphQL
 ✅ **Styling**: TailwindCSS, SCSS, CSS-in-JS, ModuleCSS
@@ -141,5 +127,5 @@ _2023_
 Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Scss, Strapi Headless Cms.  
 _2022_
 
-<!-- React, Next.js, Angular, Vue.js, Svelte, Stencil, TypeScript, JavaScript, TailwindCSS, Astro, Node.js, Express.js, APIs, GraphQL, RestAPI, Figma, UX/UI Design, Design Systems, Component Libraries, Dashboards, Real-Time Data, IoT Interfaces, Robotics UI, AI-powered UX, Human-Machine Interfaces, Autonomous Systems, Control Panels, Front-end Architecture, Microfrontends, Performance Optimization, Scalable Web Apps, Accessibility, WCAG, Responsive Design, WebSockets, Server-Side Rendering, Streaming Data, Full-stack Collaboration, Clean Code, Pragmatic Programmer, Grokking Algorithms, Tesla, Meta, Robotics Engineering, Embedded Systems, Smart Devices, IoT Platforms, Sensors Data Visualization, Edge Computing, AI Tools, LLM, Machine Learning UI, Human-Computer Interaction, Big Tech, Silicon Valley, Innovation, Future Tech.
-OpenAI, GPT, Copilot, AI Agents, Robotics Control, Drone UI, Industrial Automation, AR/VR Interfaces, Mixed Reality, Hardware Integration, ROS, Mechatronics, Autonomous Vehicles, Sensors Fusion, Digital Twins, Edge AI, Cloud Robotics, IoT Gateways, Smart Home, Smart Factory, Wearables, 5G, M2M, Industrial IoT, Embedded UX, Firmware UI, Real-Time Monitoring, Predictive Maintenance, Connected Devices, Innovation Labs, R&D Engineering, Tech Evangelist, Thought Leadership, Future Mobility, Sustainable Tech. -->
+<!-- Front-end Engineer, Senior Frontend Developer, UI Engineer, Web Developer, Software Engineer, JavaScript, TypeScript, React, Next.js, Angular, Stencil, Vue, Astro, Gatsby, Node.js, Redux, Zustand, GraphQL, REST API, HTML5, CSS3, SCSS, Less, TailwindCSS, Bootstrap, Material UI, Mantine, Utility-First CSS, Figma, UI/UX Design, Design Systems, Component Libraries, Storybook, Responsive Design, Accessibility, WCAG, SEO Optimization, Lighthouse, Jest, Vitest, Playwright, Cypress, Unit Testing, Integration Testing, End-to-End Testing, Agile, Scrum, Jira, Git, GitHub, Bitbucket, CI/CD, Vite, Webpack, Performance Optimization, Cloud Integration, Microfrontends, Data Visualization, D3.js, High-Performance UI, Robotics, Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Computer Vision, Autonomous Systems, Drone Software, Embedded UI, Human-Computer Interaction, Tesla, Apple, Meta, Google, Netflix, Amazon, Microsoft, OpenAI, Big Tech, Startups, Innovation, Cutting-edge Technology.
+ -->
