@@ -33,7 +33,7 @@ Jul 2020 - Feb 2024 | 3 yrs 8 mos | New York
 Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
 
 _Project_: Design system used across multiple apps. sandals.com customer engaging website.  
-_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA. 
+_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA.   
 _Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
 
 - Developed design system from scratch used across multiple apps, reducing development and maintenance time and ensuring consistency of the brand style in all of the apps.
