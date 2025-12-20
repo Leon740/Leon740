@@ -10,28 +10,30 @@
 ### Front-end Engineer
 
 RE Partners
-Sep 2024 - Present | 1 yr 1 mo | New York
+Feb 2024 - Present | 2 yrs | New York
 
-Working for one of the largest financial institutions in the US.
+Working for one of the oldest, largest financial institutions in the world.  
 
 _Project_: internal tools.  
 _Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.  
 _Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
 
-- Developed new projects from scratch. Selected toolset, structure, conventions for them.
-- Interacted with end users and analyzed their pain points.
-- Improved Figma UI designs.
-- Analyzed legacy apps. Wrote specs for improvement. Coordinated with assigned leaders.
+- Took ownership of the list of projects assigned to me.
+- Coordinated with product owners, designers, devs, solving multiple issues while project development.
+- Developed Front-end part, selected best tools for every task.
+Interacted with end users, analyzed their pain points, provided them with solutions.
+- Analyzed other projects, wrote issues reports and specs for improvement. Coordinated with assigned project leader.
+- Showed best practices and new tools for development on education conferences.
 
 ### Front-end Engineer
 
 Sandals Resorts
-Jun 2020 - Sep 2024 | 4 yrs 4 mos | New York
+Jul 2020 - Feb 2024 | 3 yrs 8 mos | New York
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
 
 _Project_: Design system used across multiple apps. sandals.com customer engaging website.  
-_Team_: 5 Designers, 5 Front-end, 3 Back-end, 3 QA, 2 PO.  
+_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA. 
 _Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
 
 - Developed design system from scratch used across multiple apps, reducing development and maintenance time and ensuring consistency of the brand style in all of the apps.
@@ -46,12 +48,12 @@ _Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storyb
 ### Front-end Engineer
 
 ADP
-Feb 2017 - Jun 2020 | 3 yrs 5 mos | New York
+Feb 2017 - Jul 2020 | 3 yrs 6 mos | New York
 
 ADP provides accounting services.
 
 _Project_: retirement dashboards.  
-_Team_: 4 Designers, 4 Front-end, other Back-end teams, 2 QA, 2 PO.  
+_Team_: 2 PO, 4 Designers, 4 Front-end, other Back-end teams, 2 QA.    
 _Technologies_: Figma, TypeScript, Stencil, React, Utility-First CSS, Scss, Jest, Playwright, Webpack, Storybook.
 
 - Developed components with Stencil framework and ADP design system. Designed data-structures for them. Covered unit testing (Jest), end-to-end testing (Playwright). Documented with Storybook.
@@ -80,7 +82,7 @@ _Technologies_: Figma, Html, Css, Scss, JavaScript, Vue, Webpack, Wordpress, Mag
 
 ### Master's Degree in Computer Science | GPA 3.8/4
 
-National University of Shipbuilding, Ukraine, 2011 - 2015
+Admiral Makarov National University of Shipbuilding, Ukraine, 2011 - 2015
 
 ### Salesforce Certified JavaScript Developer
 
@@ -99,7 +101,7 @@ Step IT-Academy, Ukraine, 2017
 ✅ **API**: Axios, ReactQuery, Rest, GraphQL
 ✅ **Styling**: TailwindCSS, SCSS, CSS-in-JS, ModuleCSS
 ✅ **Bundlers**: Vite, Webpack
-✅ **Testing**: Vitest, Jest, React Testing Library, Playwright, Storybook
+✅ **Testing**: Vitest, Jest, Testing Library, Playwright, Storybook
 ✅ **CMS**: Strapi, Contentful, Wordpress
 ✅ **UI/UX Design**: Figma, Sketch, Photoshop, Illustrator
 ✅ **Back-End**: Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP
