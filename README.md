@@ -94,20 +94,20 @@ Step IT-Academy, Ukraine, 2017
 
 ## Skills
 
-✅ **Languages**: TypeScript, JavaScript
-✅ **Frameworks**: React, Preact, Angular, Vue, Svelte, Stencil
-✅ **Meta-Frameworks**: Next, Astro
-✅ **State Managers**: Redux, MobX, Zustand
-✅ **API**: Axios, ReactQuery, Rest, GraphQL
-✅ **Styling**: TailwindCSS, SCSS, CSS-in-JS, ModuleCSS
-✅ **Bundlers**: Vite, Webpack
-✅ **Testing**: Vitest, Jest, Testing Library, Playwright, Storybook
-✅ **CMS**: Strapi, Contentful, Wordpress
-✅ **UI/UX Design**: Figma, Sketch, Photoshop, Illustrator
-✅ **Back-End**: Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP
-✅ **Performance & Architecture**: Lighthouse, Lazy Loading, Code Splitting, Micro-frontend Architecture
-✅ **Dev Tools**: Git, Husky, ESLint, Prettier, CI/CD (GitHub Actions)
-✅ **Accessibility & SEO**: WCAG, ARIA, Lighthouse, Semantic HTML
+✅ **Languages**: TypeScript, JavaScript  
+✅ **Frameworks**: React, Preact, Angular, Vue, Svelte, Stencil  
+✅ **Meta-Frameworks**: Next, Astro  
+✅ **State Managers**: Redux, MobX, Zustand  
+✅ **API**: Axios, ReactQuery, Rest, GraphQL  
+✅ **Styling**: TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
+✅ **Bundlers**: Vite, Webpack  
+✅ **Testing**: Vitest, Jest, Testing Library, Playwright, Storybook  
+✅ **CMS**: Strapi, Contentful, Wordpress  
+✅ **UI/UX Design**: Figma, Sketch, Photoshop, Illustrator  
+✅ **Back-End**: Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP  
+✅ **Performance & Architecture**: Lighthouse, Lazy Loading, Code Splitting, Micro-frontend Architecture  
+✅ **Dev Tools**: Git, Husky, ESLint, Prettier, CI/CD (GitHub Actions)  
+✅ **Accessibility & SEO**: WCAG, ARIA, Lighthouse, Semantic HTML  
 
 ## Personal Projects
 
