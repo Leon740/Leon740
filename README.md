@@ -9,63 +9,62 @@
 
 ### Front-end Engineer
 
-RE Partners
-Feb 2024 - Present | 2 yrs | New York
+RE Partners  
+February 2024 - Present | 2 yrs | New York  
 
-Working for one of the oldest, largest financial institutions in the world.  
+Working for one of the oldest, largest financial institutions in the world.
 
-_Project_: internal tools.  
-_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager.  
+_Project_: internal tools.
+_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager. 
 _Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
 
 - Took ownership of the list of projects assigned to me.
 - Coordinated with product owners, designers, devs, solving multiple issues while project development.
 - Developed Front-end part, selected best tools for every task.
-Interacted with end users, analyzed their pain points, provided them with solutions.
+- Interacted with end users, analyzed their pain points, provided them with solutions.
 - Analyzed other projects, wrote issues reports and specs for improvement. Coordinated with assigned project leader.
 - Showed best practices and new tools for development on education conferences.
 
 ### Front-end Engineer
 
-Sandals Resorts
-Jul 2020 - Feb 2024 | 3 yrs 8 mos | New York
+Sandals Resorts  
+July 2020 - February 2024 | 3 yrs 8 mos | New York  
 
 Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
 
-_Project_: Design system used across multiple apps. sandals.com customer engaging website.  
-_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA.   
+_Project_: Design system consumed by every app at Sandals Resorts. sandals.com customer engaging website.
+_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA. 
 _Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
 
-- Developed design system from scratch used across multiple apps, reducing development and maintenance time and ensuring consistency of the brand style in all of the apps.
-- Selected tools for design system: React, TypeScript, Vitest, Playwright, Storybook.
+- Developed design system from scratch consumed by every app at Sandals Resorts, reducing development and maintenance time and ensuring brand consistency in each app.
+- Selected tools for design system: React, TypeScript, Tailwind, Vitest, Playwright, Storybook.
 - Set up project structure, conventions, linters.
-- Adopted TailwindCss reducing development time and bundle size significantly.
-- Took part in design system QA sessions.
-- Selected Next.js SSR framework for new version of 300 pages sandals.com website.
+- Adopted TailwindCss, reducing development time and bundle size significantly.
+- Analyzed design system bug reports, issues. Wrote docs, delivered updates. Led QA sessions.
+- Selected Next.js SSR framework for new version of sandals.com 300 pages website.
 - Interacted closely with design team on A/B testing stage, increasing booking conversion rate by 46%.
-- Optimized accessibility, Seo by using utilities and packages while development and Lighthouse audits.
+- Improved accessibility, Seo, by installing automated code checkers, analyzing Lighthouse audits results.
 
 ### Front-end Engineer
 
-ADP
-Feb 2017 - Jul 2020 | 3 yrs 6 mos | New York
+ADP  
+February 2017 - July 2020 | 3 yrs 6 mos | New York  
 
 ADP provides accounting services.
 
-_Project_: retirement dashboards.  
-_Team_: 2 PO, 4 Designers, 4 Front-end, other Back-end teams, 2 QA.    
-_Technologies_: Figma, TypeScript, Stencil, React, Utility-First CSS, Scss, Jest, Playwright, Webpack, Storybook.
+_Project_: retirement dashboards.
+_Team_: 2 PO, 4 Designers, 4 Front-end, other Back-end teams, 2 QA.  
+_Technologies_: Figma, TypeScript, Stencil, React, Jest, Playwright, Webpack, Storybook.
 
 - Developed components with Stencil framework and ADP design system. Designed data-structures for them. Covered unit testing (Jest), end-to-end testing (Playwright). Documented with Storybook.
 - Solved design system bugs by reporting, joining QA sessions and making workarounds as a last resort.
 - Analyzed and improved other modules. (Boyscout rule)
-- Researched and analyzed solutions for challenges.
-  Example: Ag-Grid vs custom table wrapper with encapsulated functionality.
+- Researched and analyzed solutions for challenges. Example: Ag-Grid vs custom table wrapper with encapsulated functionality.
 
 ### Front-end Engineer
 
-Fortune-IT
-Feb 2015 - Feb 2017 | 2 yrs 1 mo | New York
+Fortune-IT  
+February 2015 - February 2017 | 2 yrs 1 mo | New York  
 
 Fortune-IT is a digital agency providing digital transformation services.
 
