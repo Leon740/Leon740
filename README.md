@@ -1,132 +1,58 @@
 # Leonid Hastings
-
-📌 **Front-end Engineer, Software Engineer** (10+ years, TypeScript, React, Next, Astro, Angular, Stencil, Vue)  
-🇺🇸 New York (Open to Relocation)  
+ 
+📌 **Front-end Engineer, Software Engineer** (8+ years, TypeScript, React, Next, Astro, Angular, Stencil, Vue)  
+🇺🇸 Philadelphia, PA (Open to Relocation)  
 🟢 Green Card Holder
 🔗 **[LinkedIn](https://www.linkedin.com/in/leon740/)** | 🔗 **[GitHub](https://github.com/Leon740)** | ✉️ **[leonid.hastings@gmail.com](mailto:leonid.hastings@gmail.com)** | 📞 **[+1-215-987-7259](tel:12159877259)**
-
-## Experience
-
-### Front-end Engineer
-
-RE Partners  
-February 2024 - Present | 2 yrs | New York  
-
-Working for one of the oldest, largest financial institutions in the world.
-
-_Project_: internal tools.
-_Team_: Large team, with every member as individual contributor, but all reporting to 1 manager. 
-_Technologies_: Figma, TypeScript, React, Angular, Vitest, Playwright, Vite.
-
-- Took ownership of the list of projects assigned to me.
-- Coordinated with product owners, designers, devs, solving multiple issues while project development.
-- Developed Front-end part, selected best tools for every task.
-- Interacted with end users, analyzed their pain points, provided them with solutions.
-- Analyzed other projects, wrote issues reports and specs for improvement. Coordinated with assigned project leader.
-- Showed best practices and new tools for development on education conferences.
-
-### Front-end Engineer
-
-Sandals Resorts  
-July 2020 - February 2024 | 3 yrs 8 mos | New York  
-
-Sandals Resorts own and operate 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
-
-_Project_: Design system consumed by every app at Sandals Resorts. sandals.com customer engaging website.
-_Team_: 2 PO, 5 Designers, 5 Front-end, 3 Back-end, 3 QA. 
-_Technologies_: Figma, TypeScript, React, Next, Vitest, Playwright, Vite, Storybook.
-
-- Developed design system from scratch consumed by every app at Sandals Resorts, reducing development and maintenance time and ensuring brand consistency in each app.
-- Selected tools for design system: React, TypeScript, Tailwind, Vitest, Playwright, Storybook.
-- Set up project structure, conventions, linters.
-- Adopted TailwindCss, reducing development time and bundle size significantly.
-- Analyzed design system bug reports, issues. Wrote docs, delivered updates. Led QA sessions.
-- Selected Next.js SSR framework for new version of sandals.com 300 pages website.
-- Interacted closely with design team on A/B testing stage, increasing booking conversion rate by 46%.
-- Improved accessibility, Seo, by installing automated code checkers, analyzing Lighthouse audits results.
-
-### Front-end Engineer
-
-ADP  
-February 2017 - July 2020 | 3 yrs 6 mos | New York  
-
-ADP provides accounting services.
-
-_Project_: retirement dashboards.
-_Team_: 2 PO, 4 Designers, 4 Front-end, other Back-end teams, 2 QA.  
-_Technologies_: Figma, TypeScript, Stencil, React, Jest, Playwright, Webpack, Storybook.
-
-- Developed components with Stencil framework and ADP design system. Designed data-structures for them. Covered unit testing (Jest), end-to-end testing (Playwright). Documented with Storybook.
-- Solved design system bugs by reporting, joining QA sessions and making workarounds as a last resort.
-- Analyzed and improved other modules. (Boyscout rule)
-- Researched and analyzed solutions for challenges. Example: Ag-Grid vs custom table wrapper with encapsulated functionality.
-
-### Front-end Engineer
-
-Fortune-IT  
-February 2015 - February 2017 | 2 yrs 1 mo | New York  
-
-Fortune-IT is a digital agency providing digital transformation services.
-
-_Project_: multiple websites.  
-_Team_: 2 Designers, 2 Front-end, 2 Back-end, 1 main leader.  
-_Technologies_: Figma, Html, Css, Scss, JavaScript, Vue, Webpack, Wordpress, Magento, Joomla.
-
-- Selected optimal frameworks and CMS for projects.
-- Transformed designs into responsive websites.
-- Customized CMS functionality (WordPress, Magento, Joomla).
-- Improved SEO based on Lighthouse audits.
-
+ 
 ## Education
+ 
+### Bachelor's Degree in Computer Science | GPA 3.8/4
+ 
+The University of Texas at Austin, 2016 - 2020, Austin, TX
+ 
+## Experience
+ 
+### Front-end Engineer
+RE Partners | March 2024 – Present | 2 years 6 months | New York, NY
+ 
+Working for one of the oldest, largest financial institutions in the world.
+ 
+- Owned and delivered an independent portfolio of assigned projects end-to-end
+- Followed established best practices and the company-wide development manifesto, working exclusively within approved tooling and architectural guidelines
+- Reviewed design specs, coordinated directly with stakeholders to identify pain points, and implemented tailored solutions
+- Audited existing projects, documented findings in detailed issue reports and improvement specs, and collaborated with project leads to prioritize and implement fixes
+- Presented best practices and emerging development tools to an audience of 50+ engineers at internal education conferences
 
-### Master's Degree in Computer Science | GPA 3.8/4
+### Front-end Engineer
+ADP | September 2022 – March 2024 | 1 year 7 months | Jersey City, NJ
+ 
+ADP provides financial services, including payroll, HR, and workforce management solutions for businesses.
+ 
+- Built dashboards from scratch using a micro-frontend architecture
+- Designed the data flow, component interactions, and event handling; covered functionality with unit and end-to-end tests while consuming ADP's internal design system
+- Diagnosed and resolved design system bugs by filing detailed reports, participating in QA sessions, and implementing workarounds when upstream fixes weren't yet available
+- Replaced Ag-Grid with a custom, feature-rich, reusable grid component built in-house, reducing licensing costs and improving flexibility for future features
 
-Admiral Makarov National University of Shipbuilding, Ukraine, 2011 - 2015
+### Front-end Engineer, Team Lead
+Sandals Resorts | September 2020 – September 2022 | 2 years 1 month | Miami, FL
+ 
+Sandals Resorts owns and operates 30+ resorts in the Caribbean providing luxury vacation services. In the peak times (August, February) website attracts around 1500 visitors daily.
+ 
+- Identified a company-wide inefficiency: every app implemented similar components and styles independently, consuming significant development and maintenance resources. Proposed and led the creation of a shared design system with common components, styles, and design tokens
+- Researched and evaluated popular dev tools, selecting React, TypeScript, TailwindCSS, Vitest, Playwright, and Storybook based on project requirements and long-term maintainability
+- Established linting rules and coding conventions before development began, ensuring consistency across the team from day one
+- Documented and maintained the design system; led weekly QA sessions and analyzed bug reports to guide iteration
+- Promoted to lead the same team on a full redesign of the 300-page sandals.com website
+- Delivered the project by integrating the new design system with Next.js, significantly improving SEO and performance metrics and making the website rank #1 in search
+- Partnered closely with the design team during A/B testing, increasing booking conversion rate by 46%
 
-### Salesforce Certified JavaScript Developer
-
-Salesforce, New York, 2025
-
-### Professional Front-end Certification | Grade: Excellent
-
-Step IT-Academy, Ukraine, 2017
-
-## Skills
-
-✅ **Languages**: TypeScript, JavaScript  
-✅ **Frameworks**: React, Preact, Angular, Vue, Svelte, Stencil  
-✅ **Meta-Frameworks**: Next, Astro  
-✅ **State Managers**: Redux, MobX, Zustand  
-✅ **API**: Axios, ReactQuery, Rest, GraphQL  
-✅ **Styling**: TailwindCSS, SCSS, CSS-in-JS, ModuleCSS  
-✅ **Bundlers**: Vite, Webpack  
-✅ **Testing**: Vitest, Jest, Testing Library, Playwright, Storybook  
-✅ **CMS**: Strapi, Contentful, Wordpress  
-✅ **UI/UX Design**: Figma, Sketch, Photoshop, Illustrator  
-✅ **Back-End**: Node.js, Express, Nginx, MongoDB, MySQL, Postgres, Java, PHP  
-✅ **Performance & Architecture**: Lighthouse, Lazy Loading, Code Splitting, Micro-frontend Architecture  
-✅ **Dev Tools**: Git, Husky, ESLint, Prettier, CI/CD (GitHub Actions)  
-✅ **Accessibility & SEO**: WCAG, ARIA, Lighthouse, Semantic HTML  
-
-## Personal Projects
-
-### RTD HVAC Electrical and general construction
-
-[Visit website](https://rtdhvac.netlify.app)  
-Technologies: TypeScript, Preact, Astro, React Formik & Yup, Tailwind, Scss, Strapi Headless Cms.  
-_2024_
-
-### Vladis Mobile grooming
-
-[Visit website](https://vladismobilgrooming.com)  
-Technologies: TypeScript, Preact, Astro, React Formik & Yup, Tailwind, Scss, Strapi Headless Cms.  
-_2023_
-
-### UkrLep Electrical and Solar
-
-[Visit website](https://ukrlep.com)  
-Technologies: TypeScript, React, Next, React Formik & Yup, Module Css, Scss, Strapi Headless Cms.  
-_2022_
-
-<!-- Front-end Engineer, Senior Frontend Developer, UI Engineer, Web Developer, Software Engineer, JavaScript, TypeScript, React, Next.js, Angular, Stencil, Vue, Astro, Gatsby, Node.js, Redux, Zustand, GraphQL, REST API, HTML5, CSS3, SCSS, Less, TailwindCSS, Bootstrap, Material UI, Mantine, Utility-First CSS, Figma, UI/UX Design, Design Systems, Component Libraries, Storybook, Responsive Design, Accessibility, WCAG, SEO Optimization, Lighthouse, Jest, Vitest, Playwright, Cypress, Unit Testing, Integration Testing, End-to-End Testing, Agile, Scrum, Jira, Git, GitHub, Bitbucket, CI/CD, Vite, Webpack, Performance Optimization, Cloud Integration, Microfrontends, Data Visualization, D3.js, High-Performance UI, Robotics, Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Computer Vision, Autonomous Systems, Drone Software, Embedded UI, Human-Computer Interaction, Tesla, Apple, Meta, Google, Netflix, Amazon, Microsoft, OpenAI, Big Tech, Startups, Innovation, Cutting-edge Technology.
- -->
+### Front-end Developer
+Fortune-IT (part-time while completing B.S. in Computer Science) | June 2018 – September 2020 | 2 years 4 months | Austin, TX
+ 
+Fortune-IT is a small digital agency providing digital transformation services for mid-size businesses.
+ 
+- Joined as an entry-level front-end developer and rapidly learned from a more senior person on the team
+- Converted Figma designs into fully responsive, cross-browser websites
+- Optimized existing websites' Google Lighthouse scores from poor to near-perfect
+- Built a 50-page website from scratch for a renewable energy company based in Los Angeles
