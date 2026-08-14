@@ -1,6 +1,6 @@
 # Leonid Hastings
  
-📌 **Front-end Engineer, Software Engineer** (8+ years, TypeScript, React, Next, Astro, Angular, Stencil, Vue)  
+📌 **Front-end Engineer, Software Engineer** (8+ years, TypeScript, React, Next, Astro, Angular, Stencil, Svelte, Vue)  
 🇺🇸 Philadelphia, PA (Open to Relocation)  
 🟢 Green Card Holder  
 🔗 **[LinkedIn](https://www.linkedin.com/in/leon740/)** | 🔗 **[GitHub](https://github.com/Leon740)** | ✉️ **[leonid.hastings@gmail.com](mailto:leonid.hastings@gmail.com)** | 📞 **[+1-215-987-7259](tel:12159877259)**
