@@ -9,7 +9,7 @@
  
 ### Bachelor's Degree in Computer Science | GPA 3.8/4
  
-The University of Texas at Austin, 2016 - 2020, Austin, TX
+Admiral Makarov National University of Shipbuilding, 2014 - 2018
  
 ## Experience
  
@@ -48,7 +48,7 @@ Sandals Resorts owns and operates 30+ resorts in the Caribbean providing luxury 
 - Partnered closely with the design team during A/B testing, increasing booking conversion rate by 46%
 
 ### Front-end Developer
-Fortune-IT (part-time while completing B.S. in Computer Science) | June 2018 – September 2020 | 2 years 4 months | Austin, TX
+Fortune-IT | June 2018 – September 2020 | 2 years 4 months | Austin, TX
  
 Fortune-IT is a small digital agency providing digital transformation services for mid-size businesses.
  
