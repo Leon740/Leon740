@@ -14,7 +14,7 @@ Admiral Makarov National University of Shipbuilding, 2014 - 2018
 ## Experience
  
 ### Front-end Engineer
-RE Partners | March 2024 – Present | 2 years 6 months
+RE Partners | March 2024 – Present | 2 years 9 months
  
 Contributing to enterprise applications at one of the world's largest and most established financial institutions.
 
